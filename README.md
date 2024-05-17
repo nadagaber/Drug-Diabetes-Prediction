@@ -1,7 +1,9 @@
 # Drug-Diabetes-Prediction
 
 ## Predicting Medication and Diagnosing Diabetes with Machine Learning
+
 <br>
+
 ## Repository Overview:
 
 This repository contains the implementation of two machine learning experiments aimed at predicting appropriate medication for patients and diagnosing diabetes. The experiments involve decision trees using Scikit-learn and a custom implementation of the k-Nearest Neighbors (kNN) algorithm in Python. The dataset Drug.csv is used for the decision tree experiments, while the dataset diabetes.csv is used for the kNN algorithm.
