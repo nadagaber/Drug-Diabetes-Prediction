@@ -11,32 +11,32 @@ This repository contains the implementation of two machine learning experiments 
 <br>
 
 ## Contents
-Data Preprocessing:
+- Data Preprocessing:
 
-Handling missing data by counting and replacing them.
-
-Encoding categorical variables for machine learning algorithms.
-
-<br>
-
-Decision Trees using Scikit-learn:
-
-First Experiment: Training and testing with fixed train-test split ratio.
-
-Second Experiment: Training and testing with a range of train-test split ratios.
-
-Reporting model sizes, accuracies, and comparing results to select the best model.
-
-Generating plots for accuracy and tree size against training set size.
+  Handling missing data by counting and replacing them.
+  
+  Encoding categorical variables for machine learning algorithms.
 
 <br>
 
-k-Nearest Neighbors (kNN) Algorithm:
+- Decision Trees using Scikit-learn:
 
-Implementing a custom kNN classifier from scratch.
+  First Experiment: Training and testing with fixed train-test split ratio.
+  
+  Second Experiment: Training and testing with a range of train-test split ratios.
+  
+  Reporting model sizes, accuracies, and comparing results to select the best model.
+  
+  Generating plots for accuracy and tree size against training set size.
 
-Normalizing features using Log Transformation or Min-Max Scaling.
+<br>
 
-Breaking ties using Distance-Weighted Voting.
+- k-Nearest Neighbors (kNN) Algorithm:
 
-Reporting accuracy for different k values and calculating average accuracy.
+  Implementing a custom kNN classifier from scratch.
+  
+  Normalizing features using Log Transformation or Min-Max Scaling.
+  
+  Breaking ties using Distance-Weighted Voting.
+  
+  Reporting accuracy for different k values and calculating average accuracy.
