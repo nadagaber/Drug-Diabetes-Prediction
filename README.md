@@ -40,3 +40,6 @@ This repository contains the implementation of two machine learning experiments 
   Breaking ties using Distance-Weighted Voting.
   
   Reporting accuracy for different k values and calculating average accuracy.
+
+  ## Team Member:
+[Malak Gamal](https://github.com/malakg1)
